@@ -1,5 +1,4 @@
-fastapi==0.95.0
-uvicorn==0.23.0
-pydantic==1.10.5
-google-generativeai==0.1.0  # You may need to check the correct version if this is not accurate
-python-dotenv==1.0.0
+fastapi==0.115.12
+uvicorn==0.34.2
+pydantic==2.11.3
+google-generativeai==0.8.5  # You may need to check the correct version if this is not accurate
