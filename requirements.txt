@@ -1,13 +1,5 @@
-fastapi==0.115.12
-fastapi-cli==0.0.7
-google-ai-generativelanguage==0.6.15
-google-api-core==2.24.2
-google-api-python-client==2.167.0
-google-auth==2.39.0
-google-auth-httplib2==0.2.0
-google-generativeai==0.8.5
-googleapis-common-protos==1.70.0
-pydantic==2.11.3
-pydantic_core==2.33.1
-uvicorn==0.34.2
-
+fastapi==0.95.0
+uvicorn==0.23.0
+pydantic==1.10.5
+google-generativeai==0.1.0  # You may need to check the correct version if this is not accurate
+python-dotenv==1.0.0
